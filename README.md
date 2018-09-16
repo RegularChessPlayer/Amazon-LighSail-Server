@@ -61,7 +61,18 @@ Using a baseline installation of a Linux server and preparing it to host my web 
             # ALTER ROLE catalog WITH PASSWORD 'catalog'
             # GRANT ALL PRIVILEGES ON DATABASE catalog TO catalog;
 
+
+## List of any third-party resources you made use of to complete this project 
+
+    https://lightsail.aws.amazon.com/ls/docs/en/articles/getting-started-with-amazon-lightsail
+    https://support.rackspace.com/how-to/logging-in-with-an-ssh-private-key-on-linuxmac/
+    https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart
+    
+    
+
 ##Install git, clone and setup your Catalog App project and Configure and Enable a New Virtual Host finaly  Create the .wsgi File.
+
+
 
 
 
